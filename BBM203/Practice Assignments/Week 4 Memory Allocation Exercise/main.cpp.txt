@@ -1,0 +1,59 @@
+#include "Library.h"
+#include <fstream>
+#include <sstream>
+#include <iostream>
+#include <regex>  // For splitting based on multiple spaces
+
+void loadBooksFromFile(Library& library, const std::string& fileName) {
+    std::ifstream file(fileName);
+    std::string line;
+
+    if (!file.is_open()) {
+        std::cerr << "Error: Could not open file " << fileName << std::endl;
+        return;
+    }
+
+    // Use a regex to split the line based on multiple spaces
+    std::regex multiSpaceRegex("\\s{2,}");  // Matches two or more spaces
+
+    while (std::getline(file, line)) {
+        std::sregex_token_iterator iter(line.begin(), line.end(), multiSpaceRegex, -1);
+        std::sregex_token_iterator end;
+
+        std::vector<std::string> tokens;
+        for (; iter != end; ++iter) {
+            tokens.push_back(*iter);
+        }
+
+        // Ensure the line has exactly four fields: title, author, year, genre
+        if (tokens.size() == 4) {
+            std::string title = tokens[0];
+            std::string author = tokens[1];
+            int year = std::stoi(tokens[2]);
+            std::string genre = tokens[3];
+
+            // Add the book to the library
+            library.addBook(title, author, year, genre);
+        } else {
+            std::cerr << "Error: Malformed line in file: " << line << std::endl;
+        }
+    }
+
+    file.close();
+}
+
+int main() {
+    Library library(5); // Create a library with capacity for 5 books
+    loadBooksFromFile(library, "Books.txt"); // Load books from input file
+
+    std::cout << "Books in the library: " << std::endl;
+    library.printBooks();
+
+    // TO DO: Ensure proper memory handling when removing a book
+    library.removeBook("1984");
+    
+    std::cout << "After removing 1984: " << std::endl;
+    library.printBooks();
+
+    return 0;
+}

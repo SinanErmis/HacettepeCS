@@ -1,0 +1,25 @@
+Students who will fail BBM201 with F1 Grade:
+--------------------
+Ayten	2316
+Bulent	2322
+Fuat	2326
+Efe	2339
+Batuhan	2341
+Lale	2342
+Akin	2346
+Leyle	2347
+Oguzhan	2353
+Zeynep	2354
+Arda	2360
+Hamza	2366
+Eylul	2369
+Bayram	2370
+Fatih	2372
+Yunus	2374
+Ahmet	2383
+Cengiz	2387
+Cemil	2392
+Yigit	2395
+Samet	2396
+Harun	2401
+Enes	2409

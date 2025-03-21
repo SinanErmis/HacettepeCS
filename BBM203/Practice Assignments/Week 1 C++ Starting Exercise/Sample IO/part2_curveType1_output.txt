@@ -1,0 +1,23 @@
+- - - - - - - - - - 
+BBM201 Statistics
+(Curve Type 1 - Increase Average)
+- - - - - - - - - - 
+A1:	-
+A2:	-
+A3:	2
+B1:	1
+B2:	6
+B3:	3
+C1:	7
+C2:	10
+C3:	7
+D:	13
+F1:	-
+F2:	-
+F3:	51
+--------------------
+Total Number of Students: 100
+Mean value of average grades: 50.0
+Max Score: 89.18
+Min Score: 16.38
+--------------------

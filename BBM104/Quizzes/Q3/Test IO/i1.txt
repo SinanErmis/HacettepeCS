@@ -1,0 +1,2 @@
+S->aA|Aa
+A->aaa|a

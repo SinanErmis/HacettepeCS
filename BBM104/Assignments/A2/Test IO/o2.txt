@@ -1,0 +1,2874 @@
+COMMAND: INIT_VOYAGE	Premium	13	Edirne	Bursa	9	257	12	8
+Voyage 13 was initialized as a premium (1+2) voyage from Edirne to Bursa with 257.00 TL priced 18 regular seats and 277.56 TL priced 9 premium seats. Note that refunds will be 12% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Standard	4	Kastamonu	Van	15	1237	25
+Voyage 4 was initialized as a standard (2+2) voyage from Kastamonu to Van with 1237.00 TL priced 60 regular seats. Note that refunds will be 25% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Minibus	2	Polatlı	Çayyolu	6	124.5
+Voyage 2 was initialized as a minibus (2) voyage from Polatlı to Çayyolu with 124.50 TL priced 12 regular seats. Note that minibus tickets are not refundable.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Premium	9	İstanbul	Muğla	17	745.7	0	0
+Voyage 9 was initialized as a premium (1+2) voyage from İstanbul to Muğla with 745.70 TL priced 34 regular seats and 745.70 TL priced 17 premium seats. Note that refunds will be 0% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Minibus	3	Küçükyalı	Başıbüyük	9	130
+Voyage 3 was initialized as a minibus (2) voyage from Küçükyalı to Başıbüyük with 130.00 TL priced 18 regular seats. Note that minibus tickets are not refundable.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Standard	5	Kırşehir	Kırıkkale	13	578	15
+Voyage 5 was initialized as a standard (2+2) voyage from Kırşehir to Kırıkkale with 578.00 TL priced 52 regular seats. Note that refunds will be 15% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: INIT_VOYAGE	Standard	7	Amasya	Trabzon	18	325	12
+Voyage 7 was initialized as a standard (2+2) voyage from Amasya to Trabzon with 325.00 TL priced 72 regular seats. Note that refunds will be 12% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: PRINT_VOYAGE	9
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: SELL_TICKET	13	4_7_11_12_16_17
+Seat 4-7-11-12-16-17 of the Voyage 13 from Edirne to Bursa was successfully sold for 1603.68 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	4	3_5_6_7_8
+Seat 3-5-6-7-8 of the Voyage 4 from Kastamonu to Van was successfully sold for 6185.00 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	3	9_10_11_12_13_14_15
+Seat 9-10-11-12-13-14-15 of the Voyage 3 from Küçükyalı to Başıbüyük was successfully sold for 910.00 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	7	3_12_16_19
+Seat 3-12-16-19 of the Voyage 7 from Amasya to Trabzon was successfully sold for 1300.00 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 0.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	5	15
+Seat 15 of the Voyage 5 from Kırşehir to Kırıkkale was successfully sold for 578.00 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	2	12
+Seat 12 of the Voyage 2 from Polatlı to Çayyolu was successfully sold for 124.50 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: SELL_TICKET	9	1_2_3_4_10_12_14_23_24_25_26
+Seat 1-2-3-4-10-12-14-23-24-25-26 of the Voyage 9 from İstanbul to Muğla was successfully sold for 8202.70 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: PRINT_VOYAGE	4
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: PRINT_VOYAGE	7
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | X *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1300.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: REFUND_TICKET	7	3
+Seat 3 of the Voyage 7 from Amasya to Trabzon was successfully refunded for 286.00 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: PRINT_VOYAGE	5
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 578.00
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: REFUND_TICKET	5	15
+Seat 15 of the Voyage 5 from Kırşehir to Kırıkkale was successfully refunded for 491.30 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: PRINT_VOYAGE	5
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | X X
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1603.68
+----------------
+COMMAND: REFUND_TICKET	13	11_12
+Seat 11-12 of the Voyage 13 from Edirne to Bursa was successfully refunded for 452.32 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+X | * *
+* | * *
+X | * X
+* | X *
+* | * *
+* | * *
+* | X X
+X | X *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 8202.70
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | * *
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1151.36
+----------------
+COMMAND: REFUND_TICKET	9	10_14_25_26_4
+Seat 10-14-25-26-4 of the Voyage 9 from İstanbul to Muğla was successfully refunded for 3728.50 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * *
+* | X X
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 4474.20
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | * *
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1151.36
+----------------
+COMMAND: PRINT_VOYAGE	9
+Voyage 9
+İstanbul-Muğla
+X | X X
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * *
+* | X X
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 4474.20
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * *
+* | X X
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 4474.20
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | * *
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1151.36
+----------------
+COMMAND: PRINT_VOYAGE	7
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 9
+İstanbul-Muğla
+X | X X
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * *
+* | X X
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 4474.20
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | * *
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1151.36
+----------------
+COMMAND: CANCEL_VOYAGE	9
+Voyage 9 was successfully cancelled!
+Voyage details can be found below:
+Voyage 9
+İstanbul-Muğla
+X | X X
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * *
+* | X X
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 2
+Polatlı-Çayyolu
+* *
+* *
+* *
+* *
+* *
+* X
+Revenue: 124.50
+----------------
+Voyage 3
+Küçükyalı-Başıbüyük
+* *
+* *
+* *
+* *
+X X
+X X
+X X
+X *
+* *
+Revenue: 910.00
+----------------
+Voyage 4
+Kastamonu-Van
+* * | X *
+X X | X X
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 6185.00
+----------------
+Voyage 5
+Kırşehir-Kırıkkale
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 86.70
+----------------
+Voyage 7
+Amasya-Trabzon
+* * | * *
+* * | * *
+* * | * X
+* * | * X
+* * | X *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+* * | * *
+Revenue: 1014.00
+----------------
+Voyage 13
+Edirne-Bursa
+* | * *
+X | * *
+X | * *
+* | * *
+* | * *
+X | X *
+* | * *
+* | * *
+* | * *
+Revenue: 1151.36
+----------------

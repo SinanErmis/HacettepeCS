@@ -1,0 +1,6 @@
+S->kBVQ|Q|Vp
+G->zqa|Q
+B->kG|zV
+Q->zqaV|z|p
+V->z|q|a|Uz
+U->k|y

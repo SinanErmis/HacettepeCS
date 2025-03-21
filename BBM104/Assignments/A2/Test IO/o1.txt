@@ -1,0 +1,338 @@
+COMMAND: INIT_VOYAGE	Premium	5	Aydın	İzmir	13	325.57	8	11
+Voyage 5 was initialized as a premium (1+2) voyage from Aydın to İzmir with 325.57 TL priced 26 regular seats and 361.38 TL priced 13 premium seats. Note that refunds will be 8% less than the paid amount.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+* | * *
+Revenue: 0.00
+----------------
+COMMAND: SELL_TICKET	5	33_16_21_8_3_39_28
+Seat 33-16-21-8-3-39-28 of the Voyage 5 from Aydın to İzmir was successfully sold for 2350.62 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | * *
+* | X *
+* | * *
+* | * *
+X | * *
+* | * X
+* | * *
+* | * *
+X | * *
+* | * X
+* | * *
+* | * X
+Revenue: 2350.62
+----------------
+COMMAND: SELL_TICKET	5	12_5_23_29
+Seat 12-5-23-29 of the Voyage 5 from Aydın to İzmir was successfully sold for 1302.28 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X *
+* | * X
+* | * *
+X | * *
+* | * X
+* | X *
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 3652.90
+----------------
+COMMAND: REFUND_TICKET	5	16_5_8_3_29_33
+Seat 16-5-8-3-29-33 of the Voyage 5 from Aydın to İzmir was successfully refunded for 1830.09 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * *
+* | * *
+* | * *
+* | * X
+* | * *
+* | * *
+* | * X
+* | X *
+* | * *
+X | * *
+* | * *
+* | * *
+* | * X
+Revenue: 1822.80
+----------------
+COMMAND: SELL_TICKET	5	16_5_8_3_29_33
+Seat 16-5-8-3-29-33 of the Voyage 5 from Aydın to İzmir was successfully sold for 1989.23 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X *
+* | * X
+* | * *
+X | * *
+* | * X
+* | X *
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 3812.03
+----------------
+COMMAND: PRINT_VOYAGE	5
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X *
+* | * X
+* | * *
+X | * *
+* | * X
+* | X *
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 3812.03
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X *
+* | * X
+* | * *
+X | * *
+* | * X
+* | X *
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 3812.03
+----------------
+COMMAND: SELL_TICKET	5	15_18_24_9
+Seat 15-18-24-9 of the Voyage 5 from Aydın to İzmir was successfully sold for 1302.28 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X X
+* | * X
+* | * X
+X | * X
+* | * X
+* | X X
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 5114.31
+----------------
+COMMAND: PRINT_VOYAGE	5
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X X
+* | * X
+* | * X
+X | * X
+* | * X
+* | X X
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 5114.31
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X X
+* | * X
+* | * X
+X | * X
+* | * X
+* | X X
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 5114.31
+----------------
+COMMAND: CANCEL_VOYAGE	5
+Voyage 5 was successfully cancelled!
+Voyage details can be found below:
+Voyage 5
+Aydın-İzmir
+* | * X
+* | X *
+* | X X
+* | * X
+* | * X
+X | * X
+* | * X
+* | X X
+* | * *
+X | X *
+* | * X
+* | * *
+* | * X
+Revenue: 159.14
+COMMAND: INIT_VOYAGE	Minibus	7	Ankara	Polatlı	8	37.15
+Voyage 7 was initialized as a minibus (2) voyage from Ankara to Polatlı with 37.15 TL priced 16 regular seats. Note that minibus tickets are not refundable.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 7
+Ankara-Polatlı
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+* *
+Revenue: 0.00
+----------------
+COMMAND: SELL_TICKET	7	1_3_5_7_10_12_14_16
+Seat 1-3-5-7-10-12-14-16 of the Voyage 7 from Ankara to Polatlı was successfully sold for 297.20 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 7
+Ankara-Polatlı
+X *
+X *
+X *
+X *
+* X
+* X
+* X
+* X
+Revenue: 297.20
+----------------
+COMMAND: SELL_TICKET	7	2_4_6_8_11_13_15
+Seat 2-4-6-8-11-13-15 of the Voyage 7 from Ankara to Polatlı was successfully sold for 260.05 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 7
+Ankara-Polatlı
+X X
+X X
+X X
+X X
+* X
+X X
+X X
+X X
+Revenue: 557.25
+----------------
+COMMAND: SELL_TICKET	7	9
+Seat 9 of the Voyage 7 from Ankara to Polatlı was successfully sold for 37.15 TL.
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 7
+Ankara-Polatlı
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+Revenue: 594.40
+----------------
+COMMAND: PRINT_VOYAGE	7
+Voyage 7
+Ankara-Polatlı
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+Revenue: 594.40
+COMMAND: Z_REPORT
+Z Report:
+----------------
+Voyage 7
+Ankara-Polatlı
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+Revenue: 594.40
+----------------
+COMMAND: CANCEL_VOYAGE	7
+Voyage 7 was successfully cancelled!
+Voyage details can be found below:
+Voyage 7
+Ankara-Polatlı
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+X X
+Revenue: 0.00
+Z Report:
+----------------
+No Voyages Available!
+----------------

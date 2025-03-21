@@ -1,0 +1,79 @@
+Python version you are responsible from is 3.9 (strictly not 3.10).
+
+https://anaconda.org/
+(It is like PyCharm and Visual Studio Code, but better for me. I prefer using anaconda all the time for my research projects.)
+
+https://www.anaconda.com/products/individual
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+conda create --name <myenvname>
+conda info --envs
+conda env list
+conda activate <myenvname>
+conda list
+
+
+
+
+
+https://docs.jupyter.org/en/latest/
+
+https://github.com/dunovank/jupyter-themes
+
+conda install -c conda-forge jupyterthemes
+
+jt -t monokai
+
+jt -t monokai -f fira -fs 13 -nf ptsans -nfs 11 -N -kl -cursw 5 -cursc r -cellw 95% -T
+jt -t monokai -fs 100 -tfs 13 -fs 13 -ofs 13 -dfs 13 -cellw 85% -T -f firacode -nf ubuntu -nfs 13 -N
+
+Click help and Keyboard Shortcuts inside Jupyter Notebook
+
+
+
+
+
+Useful Python Libraries For Introduction
+
+pip
+numpy
+pandas
+matplotlib
+jupyter notebook
+nbconvert*
+scikit-learn
+
+
+Useful Libraries For Other Courses
+
+pygame
+pypi
+seaborn
+scikit-learn
+urllib3
+nltk
+scipy
+beautifulsoup
+pytorch
+gensim
+zemberek
+spacy
+
+
+
+In Dev You can copy and use my created conda environment using the following commands:
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+source ~/.bashrc
+cp /tmp/BBM103_miniconda_environment.zip .
+conda env create -f environment.yml
+
+
+Just to mention, you can export your miniconda environment using these commands:
+conda activate BBM103
+conda env export > BBM103_miniconda_environment.yml
+zip BBM103_miniconda_environment.zip BBM103_miniconda_environment.yml
+cp BBM103_miniconda_environment.zip /tmp
+chmod 777 /tmp/BBM103_miniconda_environment.zip
+

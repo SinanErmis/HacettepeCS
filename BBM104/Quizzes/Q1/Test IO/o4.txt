@@ -1,0 +1,22 @@
+Alpay skipped the turn and Alpay’s score is 0.
+Baran threw 5-3 and Baran’s score is 8.
+Alpay threw 4-2 and Alpay’s score is 6.
+Baran threw 4-6 and Baran’s score is 18.
+Alpay threw 3-4 and Alpay’s score is 13.
+Baran threw 4-3 and Baran’s score is 25.
+Alpay skipped the turn and Alpay’s score is 13.
+Baran threw 5-2 and Baran’s score is 32.
+Alpay threw 3-5 and Alpay’s score is 21.
+Baran threw 4-6 and Baran’s score is 42.
+Alpay threw 2-3 and Alpay’s score is 26.
+Baran threw 5-3 and Baran’s score is 50.
+Alpay skipped the turn and Alpay’s score is 26.
+Baran threw 4-3 and Baran’s score is 57.
+Alpay threw 4-2 and Alpay’s score is 32.
+Baran threw 2-6 and Baran’s score is 65.
+Alpay threw 6-3 and Alpay’s score is 41.
+Baran threw 4-2 and Baran’s score is 71.
+Alpay threw 5-4 and Alpay’s score is 50.
+Baran threw 5-4 and Baran’s score is 80.
+Alpay threw 1-1. Game over Alpay!
+Baran is the winner of the game with the score of 80. Congratulations Baran!

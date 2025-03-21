@@ -1,0 +1,21 @@
+mkdir playing_with_linux_cmd
+cd playing_with_linux_cmd
+ls
+cat >jibberish.txt
+A long time ago, Temel and Dursun went to a local bar.
+‘Ctrl-d’
+cat >README.txt
+My motto is the give best whoever stands with me. 
+‘Ctrl-d’
+cat jibberish.txt > wise_sayings.txt
+rm jibberish.txt
+cat wise_sayings.txt
+mkdir my_precious
+mv wise_sayings.txt my_precious
+cd my_precious
+ls
+chmod 700 wise_sayings.txt
+cd ..
+cd ..
+zip -r gameover.zip playing_with_linux_cmd
+scp gameover.zip b2220356143@dev.cs.hacettepe.edu.tr:/home/ogr/b2220356143

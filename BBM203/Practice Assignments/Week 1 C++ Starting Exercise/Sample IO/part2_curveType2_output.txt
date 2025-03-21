@@ -1,0 +1,23 @@
+- - - - - - - - - - 
+BBM201 Statictics
+(Curve Type 2 - Increase Max Score)
+- - - - - - - - - - 
+A1:	2
+A2:	1
+A3:	7
+B1:	4
+B2:	7
+B3:	11
+C1:	8
+C2:	9
+C3:	10
+D:	14
+F1:	-
+F2:	-
+F3:	27
+--------------------
+Total Number of Students: 100
+Mean value of average grades: 60.82
+Max Score: 100.0
+Min Score: 27.2
+--------------------

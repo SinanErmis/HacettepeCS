@@ -1,0 +1,54 @@
+Comb [500]	        Random: 25490	    Sorted: 15970	Reverse: 19470
+Comb [1000]	        Random: 66860	    Sorted: 41600	Reverse: 46590
+Comb [2000]	        Random: 90630	    Sorted: 29710	Reverse: 39540
+Comb [4000]	        Random: 205980	    Sorted: 64460	Reverse: 83070
+Comb [8000]	        Random: 481540	    Sorted: 145300	Reverse: 179630
+Comb [16000]	    Random: 919510	    Sorted: 322040	Reverse: 391740
+Comb [32000]	    Random: 2058620	    Sorted: 790910	Reverse: 818680
+Comb [64000]	    Random: 4420060	    Sorted: 1516610	Reverse: 1783010
+Comb [128000]	    Random: 9667150	    Sorted: 3682200	Reverse: 4054840
+Comb [250000]	    Random: 19392160	Sorted: 6987310	Reverse: 7941450
+
+Insertion [500]	    Random: 40670	    Sorted: 1820	Reverse: 82950
+Insertion [1000]	Random: 170310	    Sorted: 1020	Reverse: 320090
+Insertion [2000]	Random: 667330	    Sorted: 1880	Reverse: 1283040
+Insertion [4000]	Random: 2603470	    Sorted: 3700	Reverse: 5030000
+Insertion [8000]	Random: 10038590	Sorted: 7570	Reverse: 19769000
+Insertion [16000]	Random: 44059870	Sorted: 16500	Reverse: 77729220
+Insertion [32000]	Random: 165071000	Sorted: 31150	Reverse: 317531690
+Insertion [64000]	Random: 695186570	Sorted: 67860	Reverse: 1415411720
+Insertion [128000]	Random: 2613052340	Sorted: 122820	Reverse: 5083767530
+Insertion [250000]	Random: 10869951420	Sorted: 239780	Reverse: 19349034030
+
+Shaker [500]	    Random: 253790	    Sorted: 1440	Reverse: 245820
+Shaker [1000]	    Random: 295930	    Sorted: 580	    Reverse: 232010
+Shaker [2000]	    Random: 1073210	    Sorted: 830	    Reverse: 918200
+Shaker [4000]	    Random: 3955370	    Sorted: 2050	Reverse: 3714570
+Shaker [8000]	    Random: 15405780	Sorted: 3910	Reverse: 15625370
+Shaker [16000]	    Random: 64072050	Sorted: 8670	Reverse: 61110340
+Shaker [32000]	    Random: 342383640	Sorted: 13110	Reverse: 245555040
+Shaker [64000]	    Random: 1847858210	Sorted: 24160	Reverse: 996731960
+Shaker [128000]	    Random: 8415386510	Sorted: 46390	Reverse: 3928961050
+Shaker [250000]	    Random: 36555270550	Sorted: 96730	Reverse: 14904179460
+
+Shell [500]	        Random: 22810	    Sorted: 9790	Reverse: 14490
+Shell [1000]	    Random: 66190	    Sorted: 26080	Reverse: 42490
+Shell [2000]	    Random: 85860	    Sorted: 10310	Reverse: 18340
+Shell [4000]	    Random: 204220	    Sorted: 22690	Reverse: 40140
+Shell [8000]	    Random: 448580	    Sorted: 49780	Reverse: 85100
+Shell [16000]	    Random: 963970	    Sorted: 110140	Reverse: 180070
+Shell [32000]	    Random: 2141010	    Sorted: 244490	Reverse: 393370
+Shell [64000]	    Random: 4708780	    Sorted: 506740	Reverse: 784770
+Shell [128000]	    Random: 10517980	Sorted: 1096340	Reverse: 1694640
+Shell [250000]	    Random: 19377870	Sorted: 2270810	Reverse: 3441760
+
+Radix [500]	        Random: 18370	Sorted: 18600	Reverse: 18540
+Radix [1000]	    Random: 34650	Sorted: 35290	Reverse: 34800
+Radix [2000]	    Random: 66540	Sorted: 66940	Reverse: 67100
+Radix [4000]	    Random: 131410	Sorted: 135330	Reverse: 133070
+Radix [8000]	    Random: 276800	Sorted: 278520	Reverse: 284630
+Radix [16000]	    Random: 532810	Sorted: 535260	Reverse: 536370
+Radix [32000]	    Random: 1071060	Sorted: 1100380	Reverse: 1122450
+Radix [64000]	    Random: 2293480	Sorted: 2118970	Reverse: 2102860
+Radix [128000]	    Random: 4230910	Sorted: 4247560	Reverse: 4244060
+Radix [250000]	    Random: 8451090	Sorted: 8537730	Reverse: 8311370

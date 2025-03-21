@@ -1,0 +1,22 @@
+Aslı threw 2-6 and Aslı’s score is 8.
+Umut threw 2-3 and Umut’s score is 5.
+Aslı threw 3-3 and Aslı’s score is 14.
+Umut threw 4-3 and Umut’s score is 12.
+Aslı threw 6-2 and Aslı’s score is 22.
+Umut threw 4-3 and Umut’s score is 19.
+Aslı threw 5-3 and Aslı’s score is 30.
+Umut threw 2-3 and Umut’s score is 24.
+Aslı threw 3-6 and Aslı’s score is 39.
+Umut threw 2-3 and Umut’s score is 29.
+Aslı threw 4-2 and Aslı’s score is 45.
+Umut threw 3-5 and Umut’s score is 37.
+Aslı threw 6-6 and Aslı’s score is 57.
+Umut threw 5-6 and Umut’s score is 48.
+Aslı threw 5-2 and Aslı’s score is 64.
+Umut threw 5-5 and Umut’s score is 58.
+Aslı threw 4-4 and Aslı’s score is 72.
+Umut threw 4-4 and Umut’s score is 66.
+Aslı threw 4-2 and Aslı’s score is 78.
+Umut threw 4-5 and Umut’s score is 75.
+Aslı threw 1-1. Game over Aslı!
+Umut is the winner of the game with the score of 75. Congratulations Umut!

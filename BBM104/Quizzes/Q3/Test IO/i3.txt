@@ -1,0 +1,3 @@
+L->x|y|yy|xy|yx|xx
+K->yL|Ly|LL|yy
+S->KL|Ky|xL|xy

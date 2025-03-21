@@ -1,0 +1,1 @@
+((y(x|y|yy|xy|yx|xx)|(x|y|yy|xy|yx|xx)y|(x|y|yy|xy|yx|xx)(x|y|yy|xy|yx|xx)|yy)(x|y|yy|xy|yx|xx)|(y(x|y|yy|xy|yx|xx)|(x|y|yy|xy|yx|xx)y|(x|y|yy|xy|yx|xx)(x|y|yy|xy|yx|xx)|yy)y|x(x|y|yy|xy|yx|xx)|xy)

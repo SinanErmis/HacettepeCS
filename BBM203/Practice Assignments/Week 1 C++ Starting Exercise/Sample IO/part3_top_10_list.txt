@@ -1,0 +1,12 @@
+Top 10 Students of BBM201 by GPA:
+--------------------
+Ibrahim	2324	A2	92.26
+Mustafa	2403	A3	85.28
+Ramazan	2384	B2	76.4
+Bihter	2397	B2	76.02
+Bengu	2332	B2	75.72
+Izzet	2338	B2	75.4
+Naz	2371	B3	71.5
+Mesut	2400	B3	70.8
+Berra	2328	B3	70.72
+Ebru	2412	B3	70.3

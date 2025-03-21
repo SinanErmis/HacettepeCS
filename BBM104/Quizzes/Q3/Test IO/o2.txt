@@ -1,0 +1,1 @@
+(((a|b|aa|ab|ba|bb)b|b(a|b|aa|ab|ba|bb)|(a|b|aa|ab|ba|bb)(a|b|aa|ab|ba|bb)|bb)b|a(a|b|aa|ab|ba|bb)|((a|b|aa|ab|ba|bb)b|b(a|b|aa|ab|ba|bb)|(a|b|aa|ab|ba|bb)(a|b|aa|ab|ba|bb)|bb)(a|b|aa|ab|ba|bb)|ab)

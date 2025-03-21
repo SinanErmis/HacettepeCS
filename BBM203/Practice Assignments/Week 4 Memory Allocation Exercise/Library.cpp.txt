@@ -1,0 +1,95 @@
+#include "Library.h"
+#include <iostream>
+#include <cstring>
+
+// <DO NOT CHANGE>
+// TO DO: Book constructor
+Book::Book(const std::string& title, const std::string& author, int year, const std::string& genre) {
+    this->title = new char[title.length() + 1];
+    strcpy(this->title, title.c_str());
+    
+    this->author = new char[author.length() + 1];
+    strcpy(this->author, author.c_str());
+    
+    this->year = year;
+    
+    this->genre = new char[genre.length() + 1];
+    strcpy(this->genre, genre.c_str());
+}
+// </DO NOT CHANGE>
+
+// // TO DO: Book destructor
+// Book::~Book() {
+//     // TO DO: Properly deallocate memory
+//     // Issue: Currently, the destructor doesn't free any of the dynamically allocated memory
+// }
+
+std::string Book::getTitle() const {
+    return std::string(title);
+}
+
+std::string Book::getAuthor() const {
+    return std::string(author);
+}
+
+int Book::getYear() const {
+    return year;
+}
+
+std::string Book::getGenre() const {
+    return std::string(genre);
+}
+
+// <DO NOT CHANGE>
+// Library constructor
+Library::Library(int capacity) {
+    this->capacity = capacity;
+    this->bookCount = 0;
+    this->books = new Book*[capacity]; // Dynamically allocated array of pointers to Book objects
+}
+// </DO NOT CHANGE>
+
+// // Library destructor
+// Library::~Library() {
+//     // TO DO: Fix memory leak by properly deallocating all dynamically allocated memory
+//     // Issue: Books are not being deleted here, leading to memory leaks.
+//     // Ensure all memory for books and the book array is deallocated.
+//     delete[] books;  // Issue: Only the array of pointers is deleted, not the individual Book objects.
+// }
+
+// <DO NOT CHANGE>
+void Library::addBook(const std::string& title, const std::string& author, int year, const std::string& genre) {
+    if (bookCount < capacity) {
+        books[bookCount] = new Book(title, author, year, genre); // Dynamically create a new Book
+        bookCount++;
+    } else {
+        std::cerr << "Library is full, cannot add more books." << std::endl;
+    }
+}
+// </DO NOT CHANGE>
+
+// // TO DO: Properly deallocate the memory for the removed book and avoid memory leaks
+// void Library::removeBook(const std::string& title) {
+//     for (int i = 0; i < bookCount; ++i) {
+//         if (books[i]->getTitle() == title) {
+//             // TO DO: Add code to free memory for the removed book
+//             // TO DO: Move the last book to the current position to avoid gaps in the array
+//             // TO DO: Adjust the book count after removal
+//             return;
+//         }
+//     }
+//     std::cerr << "Book not found." << std::endl;
+// }
+
+
+// <DO NOT CHANGE>
+void Library::printBooks() const {
+    for (int i = 0; i < bookCount; ++i) {
+        std::cout << "Title: " << books[i]->getTitle() 
+                  << ", Author: " << books[i]->getAuthor()
+                  << ", Year: " << books[i]->getYear()
+                  << ", Genre: " << books[i]->getGenre()
+                  << std::endl;
+    }
+}
+// </DO NOT CHANGE>

@@ -1,0 +1,42 @@
+#ifndef LIBRARY_H
+#define LIBRARY_H
+
+#include <string>
+
+// <DO NOT CHANGE>
+// Book class to represent each book in the library
+class Book {
+public:
+    Book(const std::string& title, const std::string& author, int year, const std::string& genre);
+    ~Book();
+    
+    std::string getTitle() const;
+    std::string getAuthor() const;
+    int getYear() const;
+    std::string getGenre() const;
+
+private:
+    char* title;
+    char* author;
+    int year;
+    char* genre;
+};
+
+// Library class to store a dynamic list of books
+class Library {
+public:
+    Library(int capacity);
+    ~Library();
+
+    void addBook(const std::string& title, const std::string& author, int year, const std::string& genre);
+    void removeBook(const std::string& title);
+    void printBooks() const;
+
+private:
+    Book** books; // Array of Book pointers
+    int capacity;
+    int bookCount;
+};
+// </DO NOT CHANGE>
+
+#endif
